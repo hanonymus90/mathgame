@@ -82,7 +82,7 @@ def display_result(total, correct):
     if total == 0:
         percentage = 0
     print("You answered", total, "questions with", correct, "correct.")
-    print("Your score is ", percentage, "%. Thank you.", sep = "")
+    print("Your score is ", percentage, "%. Thank you for using me.", sep = "")
 
 
 def main():
